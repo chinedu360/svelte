@@ -1,5 +1,6 @@
 <script>
-	let name = 'world';
+	let name = 'world !';
+        upper = name.toUpperCase();
 </script>
 
-<h1>Hello {name.toUpperCase()}!</h1>
+<h1>Hello {upper}</h1>
